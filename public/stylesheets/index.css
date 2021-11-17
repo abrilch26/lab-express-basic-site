@@ -1,0 +1,49 @@
+@import url(`https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap`);
+
+body {
+    background-color: #e1f7da;
+    font-family: "Poppins", sans-serif;
+    color: #455441;;
+}
+
+.homePageTitle {
+    font-size: 86px;
+    position: relative;
+    color:#55804a;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.homePageTxt {
+    font-size: 18px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.neriBio {
+    margin-right: 3%;
+}
+aside {
+    float: right;
+}
+
+.aboutContent {
+    margin-top: 11%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+
+.workSubtitle {
+    margin-right: 12%;
+}
+.workContent {
+    margin-top: 5%;
+    margin-right: 12%;
+    margin-left: 7%;
+
+}
